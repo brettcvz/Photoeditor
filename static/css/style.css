@@ -1,0 +1,20 @@
+h1 {
+	text-align: center;
+	margin: 20px;
+}
+
+#editpane {
+	border: 2px solid #666;
+	border-radius: 6px;
+	margin: auto;
+	width: 800px;
+	height: 600px;
+	position: relative;
+}
+
+.openbutton {
+	margin: 200px auto;
+	width: 180px;
+	height: 60px;
+	display: block;
+}
